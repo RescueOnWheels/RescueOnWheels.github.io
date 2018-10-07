@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Week 1
-date: 2018-09-14 12:05:51
+date: 2018-09-14
 tags:
 ---
 
@@ -12,9 +12,9 @@ tags:
   * Martijn Vegter
 * Assigned each team member a role (if applicable)
   * Scrum Master
-    * Martijn Vegter
-  * (Delegated) Product Owner
     * Raphaël Bunck
+  * (Delegated) Product Owner
+    * Martijn Vegter
 * Followed workshop: "Robotcar"
 * Picked up the Robotcar
   * First missed a lot of parts
