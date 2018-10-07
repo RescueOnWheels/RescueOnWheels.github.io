@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Week 4
-date: 2018-10-05 12:00:00
+date: 2018-10-05
 tags:
 ---
 # Monday (at school)
