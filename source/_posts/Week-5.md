@@ -8,3 +8,4 @@ tags:
 * Held sprint-planning for sprint2
 * Added a truckload of issues on zenhub
 * Cleaned up all tasks and added estimates to them.
+* 
