@@ -11,4 +11,4 @@ tags:
 * 
 
 # Thuesday
-* 
+* VR is hell
