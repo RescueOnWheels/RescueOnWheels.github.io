@@ -9,3 +9,5 @@ tags:
 * Added a truckload of issues on zenhub
 * Cleaned up all tasks and added estimates to them.
 * 
+
+# Thuesday
