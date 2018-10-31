@@ -8,3 +8,9 @@ tags:
 * Refactored Motor code to use easier input.
 * Refactored Cockpit to match input required by Motor.
 * First steps towards stopping in front of a wall/object.
+
+# Tuesday (at school)
+* Improved auto-stop functionality.
+* Improved ultrasonic code.
+* First version of location determening (only able if we are going straight).
+* First version of mapping (only able if we are going straight).
