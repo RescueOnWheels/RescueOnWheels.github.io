@@ -14,3 +14,7 @@ tags:
 * Improved ultrasonic code.
 * First version of location determening (only able if we are going straight).
 * First version of mapping (only able if we are going straight).
+
+# Rest of the week
+* Meeting with the coaching.
+* Working on the canvas/map generation.
