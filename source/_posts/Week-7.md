@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Week 6
-date: 2018-10-19
+title: Week 7
+date: 2018-10-15
 tags:
 ---
 Data corrupted
