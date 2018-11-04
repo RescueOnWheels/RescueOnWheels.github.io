@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Week 5
-date: 2018-10-12
+title: Week 6
+date: 2018-10-8
 tags:
 ---
 # Monday (at school)
