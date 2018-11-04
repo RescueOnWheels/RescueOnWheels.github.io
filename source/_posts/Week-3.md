@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Week 2
-date: 2018-09-21
+title: Week 3
+date: 2018-09-17
 tags:
 ---
 
