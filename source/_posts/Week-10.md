@@ -9,7 +9,8 @@ tags:
 * Improved tests of Nervi, true coverage now shown.
 
 # Tuesday
-* 
+* Replaced compass.
+* Started on LED ring.
 
 # Rest of the week
 * 
