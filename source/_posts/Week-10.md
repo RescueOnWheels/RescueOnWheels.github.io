@@ -13,4 +13,5 @@ tags:
 * Started on LED ring.
 
 # Rest of the week
-* 
+* Improved rotary/wheel encoder.
+* Re-added compass code.
