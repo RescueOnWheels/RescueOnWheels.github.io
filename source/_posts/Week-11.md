@@ -8,6 +8,7 @@ tags:
 * Sprint review -> very happy product owner.
 * Added camera controls for the controller.
 * Held a sprint planning for the first part of the sprint.
+* Camera mount moves to origin at startup.
 
 # Tuesday
 
