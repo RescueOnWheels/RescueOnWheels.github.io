@@ -11,5 +11,8 @@ tags:
 * Camera mount moves to origin at startup.
 
 # Tuesday
+* Tested new code.
+* Determined a bug in the auto-stop funcionality, to be properly reported.
+* Discussed potential solutions of the identification problem.
 
 # Rest of the week
