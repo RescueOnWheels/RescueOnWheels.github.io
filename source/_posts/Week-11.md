@@ -16,3 +16,7 @@ tags:
 * Discussed potential solutions of the identification problem.
 
 # Rest of the week
+* Added camera control to the controller.
+* Improved the reconnect system of the Cockpit.
+* Started working on Epicenter.
+* Started working on moving all helpers to Auxilio.
