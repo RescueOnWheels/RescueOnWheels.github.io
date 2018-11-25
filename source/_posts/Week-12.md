@@ -16,3 +16,4 @@ tags:
 * Improved the Cockpit.
 * Improved the heartbeat system of Larynx.
 * Started integrating Auxilio in the other repo's.
+* Continued working on the proof of concept of Epicenter.
