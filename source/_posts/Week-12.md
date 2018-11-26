@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Week 12
-date: 2018-11-12
+date: 2018-11-19
 tags:
 ---
 # Monday
