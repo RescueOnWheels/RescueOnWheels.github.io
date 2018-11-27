@@ -19,3 +19,4 @@ tags:
 * Repository cleanup.
 
 # Rest of the week
+* Preparation sprint review 3.
