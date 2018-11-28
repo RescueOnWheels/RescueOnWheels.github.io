@@ -20,4 +20,5 @@ tags:
 
 # Rest of the week
 * We had a meeting with the coach.
+* Tested VR, it works.
 * Preparation sprint review 3.
