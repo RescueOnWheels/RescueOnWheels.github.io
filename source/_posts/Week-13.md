@@ -19,4 +19,5 @@ tags:
 * Repository cleanup.
 
 # Rest of the week
+* We had a meeting with the coach.
 * Preparation sprint review 3.
