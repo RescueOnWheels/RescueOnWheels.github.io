@@ -7,6 +7,7 @@ tags:
 # Monday
 * Removed unused sensors from the Rover.
 * Started working on speed based auto-stop functionality.
+* Fixed the multiple sessions problem of Cockpit.
 
 # Tuesday
 
