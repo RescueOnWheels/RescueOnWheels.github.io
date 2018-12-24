@@ -9,4 +9,6 @@ tags:
 * Found bug in Larynx and fixed it.
 
 # Rest of the week
+* Working on documenation.
+* Lot's of dependency updates.
 * No coaching this week.
