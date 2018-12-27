@@ -6,5 +6,5 @@ tags:
 ---
 # Holiday
 * Updated dependencies.
-* Worked on Socket.IO connection in Tincedunt.
+* Added Socket.IO connection to Tincedunt.
 * Started working on the project file.
