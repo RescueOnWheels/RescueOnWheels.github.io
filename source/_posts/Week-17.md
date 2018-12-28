@@ -8,3 +8,5 @@ tags:
 * Updated dependencies.
 * Added Socket.IO connection to Tincedunt.
 * Started working on the project file.
+* Added tests for Larynx, all repo's have tests now.
+* Fixed bug in Auxilio
