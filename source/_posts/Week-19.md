@@ -7,3 +7,4 @@ tags:
 # Week prior to grading
 * Fixed minor bugs in the VR app.
 * Worked on documentation.
+* Worked on presentation of final delivery.
